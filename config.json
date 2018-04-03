@@ -1,0 +1,15 @@
+{
+    "title": "test 32323",
+    "baseURL": "https:\/\/test.ete.com",
+    "languageCode": "en-us",
+    "theme": "tvpage",
+    "disablePathToLower": true,
+    "enableRobotsTXT": true,
+    "galleryChannelIds": "",
+    "params": {
+        "loginId": "1758823",
+        "subfolder": "",
+        "firstpartycookies": true,
+        "cookiedomain": "ete.com"
+    }
+}
